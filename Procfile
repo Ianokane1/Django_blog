@@ -1,1 +1,1 @@
-web: gunicorn iankanecodestar2022.wsgi
+web: gunicorn codestar.wsgi
